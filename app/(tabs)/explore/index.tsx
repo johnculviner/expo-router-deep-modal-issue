@@ -20,7 +20,7 @@ export default function TabTwoScreen() {
           style={styles.headerImage}
         />
       }>
-        <Link href={'/explore/test-modal'}>LINKY</Link>
+      <Link href={'/explore/explore-modal'}>OPEN /explore/explore-modal</Link>
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Explore</ThemedText>
       </ThemedView>

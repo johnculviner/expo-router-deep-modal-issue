@@ -9,7 +9,7 @@ export default function Tab2Layout() {
     <>
       <Stack>
         <Stack.Screen name="index" />
-        <Stack.Screen name="explore-modal" options={{ presentation: 'modal' }} />
+        <Stack.Screen name="tab2-modal" options={{ presentation: 'modal' }} />
       </Stack>
     </>
   );
